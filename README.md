@@ -190,11 +190,11 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [empyrical-reloaded](https://github.com/stefan-jansen/empyrical-reloaded) - Common financial risk and performance metrics. [empyrical](https://github.com/quantopian/empyrical) fork.
 - [pyfolio-reloaded](https://github.com/stefan-jansen/pyfolio-reloaded) - Portfolio and risk analytics in Python. [pyfolio](https://github.com/quantopian/pyfolio) fork.
 - [fortitudo.tech](https://github.com/fortitudo-tech/fortitudo.tech) - Conditional Value-at-Risk (CVaR) portfolio optimization and Entropy Pooling views / stress-testing in Python.
-- [Quant Lab Alpha](https://github.com/husainm97/quant-lab-alpha) — Portfolio risk decomposition and Monte Carlo simulation toolkit with factor-based modeling.
+- [Quant Lab Alpha](https://github.com/husainm97/quant-lab-alpha) -- Portfolio risk decomposition and Monte Carlo simulation toolkit with factor-based modeling.
 - [quantitative-finance-tools](https://github.com/omichauhan-lgtm/quantitative-finance-tools) - Library for portfolio optimization (MVO) and rigorous risk metrics (VaR/CVaR).
 - [curistat](https://github.com/moxiespirit/MyClone/tree/main/volatility_platform) - Futures volatility forecasting platform for ES/NQ. Proprietary CVN rating (1-10), regime detection (CRC composite), 8 directional signals, economic event impact analytics. Includes MCP server for AI agent integration.
 - [Prop Trader Compass](https://otto-ships.github.io/prop-trader-compass/) - Interactive risk and payout calculator for Futures and CFD traders; features one-time fee firm comparisons.
-  
+
 ### Factor Analysis
 
 - [alphalens](https://github.com/quantopian/alphalens) - Performance analysis of predictive alpha factors.
@@ -232,7 +232,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 ### Data Sources
 - [goMacro.ai](https://gomacro.ai) - AI-powered economic calendar with institutional-grade insights, bull/bear/base case scenario planning for NFP, CPI, PPI and other macro data releases.
-- [StockAPI](https://stockapi.com.cn) – Free real-time Chinese stock data (REST & WebSocket).
+- [StockAPI](https://stockapi.com.cn) - Free real-time Chinese stock data (REST & WebSocket).
 - [yfinance](https://github.com/ranaroussi/yfinance) - Yahoo! Finance market data downloader (+faster Pandas Datareader)
 - [defeatbeta-api](https://github.com/defeat-beta/defeatbeta-api) - An open-source alternative to Yahoo Finance's market data APIs with higher reliability.
 - [findatapy](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
@@ -364,13 +364,13 @@ date conversion, scaling factor values, and filtering by the specified date.
 - [RQuantLib](https://github.com/eddelbuettel/rquantlib) - RQuantLib connects GNU R with QuantLib.
 - [quantmod](https://cran.r-project.org/web/packages/quantmod/index.html) - Quantitative Financial Modelling Framework.
 - [Rmetrics](https://www.rmetrics.org) - The premier open source software solution for teaching and training quantitative finance.
-  - [fAsianOptions](https://cran.r-project.org/web/packages/fAsianOptions/index.html) - EBM and Asian Option Valuation.
-  - [fAssets](https://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
-  - [fBasics](https://cran.r-project.org/web/packages/fBasics/index.html) - Markets and Basic Statistics.
-  - [fBonds](https://cran.r-project.org/web/packages/fBonds/index.html) - Bonds and Interest Rate Models.
-  - [fExoticOptions](https://cran.r-project.org/web/packages/fExoticOptions/index.html) - Exotic Option Valuation.
-  - [fOptions](https://cran.r-project.org/web/packages/fOptions/index.html) - Pricing and Evaluating Basic Options.
-  - [fPortfolio](https://cran.r-project.org/web/packages/fPortfolio/index.html) - Portfolio Selection and Optimization.
+ - [fAsianOptions](https://cran.r-project.org/web/packages/fAsianOptions/index.html) - EBM and Asian Option Valuation.
+ - [fAssets](https://cran.r-project.org/web/packages/fAssets/index.html) - Analysing and Modelling Financial Assets.
+ - [fBasics](https://cran.r-project.org/web/packages/fBasics/index.html) - Markets and Basic Statistics.
+ - [fBonds](https://cran.r-project.org/web/packages/fBonds/index.html) - Bonds and Interest Rate Models.
+ - [fExoticOptions](https://cran.r-project.org/web/packages/fExoticOptions/index.html) - Exotic Option Valuation.
+ - [fOptions](https://cran.r-project.org/web/packages/fOptions/index.html) - Pricing and Evaluating Basic Options.
+ - [fPortfolio](https://cran.r-project.org/web/packages/fPortfolio/index.html) - Portfolio Selection and Optimization.
 - [portfolio](https://github.com/dgerlanc/portfolio) - Analysing equity portfolios.
 - [sparseIndexTracking](https://github.com/dppalomar/sparseIndexTracking) - Portfolio design to track an index.
 - [covFactorModel](https://github.com/dppalomar/covFactorModel) - Covariance matrix estimation via factor models.
@@ -540,23 +540,22 @@ date conversion, scaling factor values, and filtering by the specified date.
 ## Frameworks
 
 - [QuantLib](https://github.com/lballabio/QuantLib) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
-  - QuantLibRisks - Fast risks with QuantLib in [Python](https://pypi.org/project/QuantLib-Risks/) and [C++](https://github.com/auto-differentiation/QuantLib-Risks-Cpp)
-  - XAD - Automatic Differentiation (AAD) Library in [Python](https://pypi.org/project/xad/) and [C++](https://github.com/auto-differentiation/xad/)
-  - [JQuantLib](https://github.com/frgomes/jquantlib) - Java port.
-  - [RQuantLib](https://github.com/eddelbuettel/rquantlib) - R port.
-  - [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
-  - [QuantLibXL](https://www.quantlib.org/quantlibxl/) - Excel support.
-  - [QLNet](https://github.com/amaggiulli/qlnet) - .Net port.
-  - [PyQL](https://github.com/enthought/pyql) - Python port.
-  - [QuantLib.jl](https://github.com/pazzo83/QuantLib.jl) - Julia port.
-  - [QuantLib-Python Documentation](https://quantlib-python-docs.readthedocs.io/) - Documentation for the Python bindings for the QuantLib library
+ - QuantLibRisks - Fast risks with QuantLib in [Python](https://pypi.org/project/QuantLib-Risks/) and [C++](https://github.com/auto-differentiation/QuantLib-Risks-Cpp)
+ - XAD - Automatic Differentiation (AAD) Library in [Python](https://pypi.org/project/xad/) and [C++](https://github.com/auto-differentiation/xad/)
+ - [JQuantLib](https://github.com/frgomes/jquantlib) - Java port.
+ - [RQuantLib](https://github.com/eddelbuettel/rquantlib) - R port.
+ - [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
+ - [QuantLibXL](https://www.quantlib.org/quantlibxl/) - Excel support.
+ - [QLNet](https://github.com/amaggiulli/qlnet) - .Net port.
+ - [PyQL](https://github.com/enthought/pyql) - Python port.
+ - [QuantLib.jl](https://github.com/pazzo83/QuantLib.jl) - Julia port.
+ - [QuantLib-Python Documentation](https://quantlib-python-docs.readthedocs.io/) - Documentation for the Python bindings for the QuantLib library
 
 - [TA-Lib](https://ta-lib.org) - perform technical analysis of financial market data.
-  - [ta-lib-python](https://github.com/TA-Lib/ta-lib-python)
-  - [ta-lib](https://github.com/TA-Lib/ta-lib)
+ - [ta-lib-python](https://github.com/TA-Lib/ta-lib-python)
+ - [ta-lib](https://github.com/TA-Lib/ta-lib)
 - [Portfolio Optimizer](https://portfoliooptimizer.io/) - Portfolio Optimizer is a Web API for portfolio analysis and optimization.
 - XAD: Automatic Differentation (AAD) Library for [Python](https://pypi.org/project/xad/) and [C++](https://github.com/auto-differentiation/xad)
-
 
 ## CSharp
 
@@ -575,11 +574,9 @@ date conversion, scaling factor values, and filtering by the specified date.
 - [finalytics](https://github.com/Nnamdi-sys/finalytics) - A rust library for financial data analysis.
 - [RunMat](https://github.com/runmat-org/runmat) - Rust runtime for MATLAB-syntax array math with automatic CPU/GPU execution and fused kernels for quant simulations.
 
-
-
 ## Reproducing Works, Training & Books
 
-- [Auto-Differentiation Website](https://auto-differentiation.github.io/) - Background and  resources on Automatic Differentiation (AD) / Adjoint Algorithmic Differentitation (AAD).
+- [Auto-Differentiation Website](https://auto-differentiation.github.io/) - Background and resources on Automatic Differentiation (AD) / Adjoint Algorithmic Differentitation (AAD).
 - [Derman Papers](https://github.com/MarcosCarreira/DermanPapers) - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
 - [KeepRule](https://keeprule.com/) - Curated library of decision-making principles and investment wisdom from masters like Buffett and Munger, featuring mental models for better investment thinking.
 - [ML-Quant](https://www.ml-quant.com/) - Top Quant resources like ArXiv (sanity), SSRN, RePec, Journals, Podcasts, Videos, and Blogs.
